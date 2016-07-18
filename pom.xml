@@ -21,6 +21,7 @@
         <configuration>
           <warSourceDirectory>WebContent</warSourceDirectory>
           <failOnMissingWebXml>false</failOnMissingWebXml>
+          <server>TomcatServer1</server>
         </configuration>
       </plugin>
     </plugins>
